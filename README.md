@@ -2,4 +2,3 @@
 
 * Práce se soubory
 * Funkce
-
